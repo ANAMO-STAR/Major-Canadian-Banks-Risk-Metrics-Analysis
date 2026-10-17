@@ -86,8 +86,8 @@ Period: 1 January 2025 to 31 December 2025
 ## Quick start
 
 ```bash
-git clone https://github.com/<your-username>/<repo-name>.git
-cd <repo-name>
+git clone https://github.com/ANAMO-STAR/Major-Canadian-Banks-Risk-Metrics-Analysis.git
+cd Major-Canadian-Banks-Risk-Metrics-Analysis
 python3 -m venv .venv
 source .venv/bin/activate
 pip install -r requirements.txt
